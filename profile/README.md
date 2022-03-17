@@ -4,7 +4,9 @@
 
 今天想要读点儿什么呢？
 
+<br>
 
+如果你想看看与 [Simple Robot](https://github.com/ForteScarlet/simpler-robot) 相关的各种其他附属产品（比如组件），不妨去看看 [Simple Robot Repositories](https://github.com/simple-robot)
 
 
 ### 状态与引导
