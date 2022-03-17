@@ -4,6 +4,19 @@
 
 今天想要读点儿什么呢？
 
+
+
+
+### 状态与引导
+
+| 文档描述 | 仓库 | 文档地址 | 构建情况 |
+|---------|-----|---------|--------|
+| Simple Robot首页 | [simbot3-website](https://github.com/simple-robot-library/simbot3-website) | [simbot.forte.love](https://simbot.forte.love) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment) |
+| Simple Robot API文档 | [simbot3-main-apiDoc](https://simple-robot-library.github.io/simbot3-main-apiDoc/) | [Main ApiDoc](https://simple-robot-library.github.io/simbot3-main-apiDoc/) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-main-apiDoc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-main-apiDoc/actions/workflows/pages/pages-build-deployment) |
+| Simple Robot mirai组件 API文档 | [simbot3-component-mirai-apiDoc](https://github.com/simple-robot-library/simbot3-component-mirai-apiDoc) | [Mirai组件 ApiDoc](https://simple-robot-library.github.io/simbot3-component-mirai-apiDoc) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-component-mirai-apiDoc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-component-mirai-apiDoc/actions/workflows/pages/pages-build-deployment) |
+| Simple Robot 腾讯频道组件 API文档 | [simbot3-component-tencent-guild-apiDoc](https://github.com/simple-robot-library/simbot3-component-tencent-guild-apiDoc) | [腾讯频道组件 ApiDoc](https://simple-robot-library.github.io/simbot3-component-tencent-guild-apiDoc/) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-component-tencent-guild-apiDoc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-component-tencent-guild-apiDoc/actions/workflows/pages/pages-build-deployment) |
+| Simple Robot 开黑啦组件 API文档 | [simbot3-component-kaiheila-apiDoc](https://github.com/simple-robot-library/simbot3-component-kaiheila-apiDoc) | [开黑啦组件 ApiDoc](https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc/) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-component-kaiheila-apiDoc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-component-kaiheila-apiDoc/actions/workflows/pages/pages-build-deployment) |
+
 <!--
 
 **Here are some ideas to get you started:**
