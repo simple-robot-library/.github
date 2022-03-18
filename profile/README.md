@@ -11,7 +11,7 @@
 
 ## 文档引导
 
-| 文档描述 | 原仓库 | 文档仓库 | 文档地址 | 发布情况 | 构建情况 |
+| 文档描述 | 源仓库 | 文档仓库 | 文档地址 | 发布情况 | 构建情况 |
 |---------|-------|---------|--------|:-------:|:-------:|
 | Simple Robot 首页 | - |  [simbot3-website](https://github.com/simple-robot-library/simbot3-website) | [simbot.forte.love](https://simbot.forte.love) | [![Deploy gh-page](https://github.com/simple-robot-library/simbot3-website/actions/workflows/gh-page.yml/badge.svg?branch=main)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/gh-page.yml) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment) |
 | Simple Robot API文档 | [simpler-robot](https://github.com/ForteScarlet/simpler-robot) |  [simbot3-main-apiDoc](https://simple-robot-library.github.io/simbot3-main-apiDoc/) | [Main API文档](https://simple-robot-library.github.io/simbot3-main-apiDoc/) | [![Deploy doc](https://github.com/ForteScarlet/simpler-robot/actions/workflows/kdoc.yml/badge.svg?branch=v3-dev)](https://github.com/ForteScarlet/simpler-robot/actions/workflows/kdoc.yml) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-main-apiDoc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-main-apiDoc/actions/workflows/pages/pages-build-deployment) |
