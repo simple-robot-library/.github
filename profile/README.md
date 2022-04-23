@@ -6,7 +6,7 @@ Hi there 👋 欢迎来到 [Simple Robot](https://github.com/ForteScarlet/simple
 
 <br>
 
-如果你想看看与 [Simple Robot](https://github.com/ForteScarlet/simpler-robot) 相关的各种其他附属产品（比如组件），不妨去看看 [Simple Robot Repositories](https://github.com/simple-robot)
+如果你想看看与 [Simple Robot](https://github.com/ForteScarlet/simpler-robot) 相关的各种其他附属产品（比如组件），不妨去看看 [**🏢 Simple Robot 组织库**](https://github.com/simple-robot) 。
 
 
 ## 文档引导
@@ -20,6 +20,6 @@ Hi there 👋 欢迎来到 [Simple Robot](https://github.com/ForteScarlet/simple
 | Simple Robot 开黑啦组件 API文档 | [simbot-component-kaiheila](https://github.com/simple-robot/simbot-component-kaiheila) |  [simbot3-component-kaiheila-apiDoc](https://github.com/simple-robot-library/simbot3-component-kaiheila-apiDoc) | [开黑啦组件 API文档](https://simple-robot-library.github.io/simbot3-component-kaiheila-apiDoc/) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-component-kaiheila-apiDoc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-component-kaiheila-apiDoc/actions/workflows/pages/pages-build-deployment) |
 
 
-## 周报
-如果你有兴趣，可以没事儿去看看大概会每周更新的 [**周报**](https://simbot.forte.love/blog/tags/%E5%91%A8%E6%8A%A5) 来了解我们的最新进展喔~
+## [📆 周报](https://simbot.forte.love/blog/tags/%E5%91%A8%E6%8A%A5)
+如果你有兴趣，可以没事儿去看看大概会每周更新的 [**📆 周报**](https://simbot.forte.love/blog/tags/%E5%91%A8%E6%8A%A5) 来了解我们的最新进展喔~
 
