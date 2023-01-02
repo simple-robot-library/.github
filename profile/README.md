@@ -31,6 +31,6 @@ Hi there 👋 欢迎来到 [Simple Robot][sr] の唯一指定官方图书馆，S
 
 
 
-## [📆 周报](https://simbot.forte.love/blog/tags/%E5%91%A8%E6%8A%A5)
-如果你有兴趣，可以没事儿去看看大概会每周更新的 [**📆 周报**](https://simbot.forte.love/blog/tags/%E5%91%A8%E6%8A%A5) 来了解我们的最新进展喔~
+## [🎏博客](https://simbot.forte.love/blog/)
+如果你有兴趣，可以没事儿去看看不定期更新的 [**🎏博客**](https://simbot.forte.love/blog) 来了解我们的最新消息喔~
 
