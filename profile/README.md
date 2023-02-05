@@ -6,30 +6,27 @@ Hi there 👋 欢迎来到 [Simple Robot][sr] の唯一指定官方图书馆，S
 
 <br>
 
-如果你想看看与 [Simple Robot][sr] 相关的各种内容（比如组件），不妨去看看 [**🏢 Simple Robot 组织库**](https://github.com/simple-robot) 。
+如果你想看看与 [Simple Robot][sr] 相关的各种内容（比如组件），不妨去看看 [**🏢 Simple Robot 组织库首页**](https://github.com/simple-robot) 。
 
 [sr]: https://github.com/simple-robot/simpler-robot
 
 ## 📖 文档引导
 
-### 🏡 主页&应用手册
+### 🏡 官方网站&应用手册
 
-| 描述 | 网站 | 仓库 | 源仓库 | 构建状态 |
-|---------|-------|---------|--------|:-------:|
-| Simple Robot 首页 | [🍬**前往官网**](https://simbot.forte.love) | [👉前往文档仓库](https://github.com/simple-robot-library/simbot3-website) | - | [![Deploy gh-page](https://github.com/simple-robot-library/simbot3-website/actions/workflows/gh-page.yml/badge.svg?branch=main)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/gh-page.yml) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment) |
+| 描述 | 网站 | 仓库 | 构建状态 |
+|---------|-------|---------|:-------:|
+| Simple Robot 首页 | [🏠**前往官网**](https://simbot.forte.love) | [源码仓库](https://github.com/simple-robot-library/simbot3-website) | [![Deploy gh-page](https://github.com/simple-robot-library/simbot3-website/actions/workflows/gh-page.yml/badge.svg?branch=main)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/gh-page.yml) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment) |
 
-官网地址：**https://simbot.forte.love**
+> 或参考官网链接：**<https://simbot.forte.love>**
 
-### 📃 APIDoc
+### 📃 KDoc(APIDoc)
 
-| 描述 | 网站 | 仓库 | 源仓库 | 构建状态 |
-|---------|-------|---------|--------|:-------:|
-| Simple Robot API文档 | [🏠前往网站](https://simple-robot-library.github.io/simbot3-main-apiDoc/) | [👉前往仓库](https://github.com/simple-robot-library/simbot3-main-apiDoc) | [👉前往源仓库](https://github.com/ForteScarlet/simpler-robot) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-main-apiDoc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-main-apiDoc/actions/workflows/pages/pages-build-deployment) |
-| Mirai组件 API文档 | [🏠前往网站](https://simple-robot-library.github.io/simbot3-component-mirai-apiDoc) | [👉前往仓库](https://github.com/simple-robot-library/simbot3-component-mirai-apiDoc) | [👉前往源仓库](https://github.com/simple-robot/simbot-component-mirai) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-component-mirai-apiDoc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-component-mirai-apiDoc/actions/workflows/pages/pages-build-deployment) |
-| 腾讯频道组件 API文档 | [🏠前往网站](https://simple-robot-library.github.io/simbot3-component-tencent-guild-apiDoc/) | [👉前往仓库](https://github.com/simple-robot-library/simbot3-component-tencent-guild-apiDoc) | [👉前往源仓库](https://github.com/simple-robot/simbot-component-tencent-guild) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-component-tencent-guild-apiDoc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-component-tencent-guild-apiDoc/actions/workflows/pages/pages-build-deployment) |
-| Kook组件 (开黑啦) API文档 | [🏠前往网站](https://simple-robot-library.github.io/simbot3-component-kook-apiDoc/) | [👉前往仓库](https://github.com/simple-robot-library/simbot3-component-kook-apiDoc) | [👉前往源仓库](https://github.com/simple-robot/simbot-component-kook) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-component-kook-apiDoc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-component-kook-apiDoc/actions/workflows/pages/pages-build-deployment) |
+| 描述 | 网站 | 仓库 | 构建状态 |
+|---------|-------|---------|:-------:|
+| 文档引导站点 | [🏠**前往站点**](https://docs.simbot.forte.love) | [源码仓库](https://github.com/simple-robot-library/simbot3-api-docs) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-api-docs/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-api-docs/actions/workflows/pages/pages-build-deployment) |
 
-
+> 或参考站点链接：**<https://docs.simbot.forte.love>**
 
 ## [🎏博客](https://simbot.forte.love/blog/)
 如果你有兴趣，可以没事儿去看看不定期更新的 [**🎏博客**](https://simbot.forte.love/blog) 来了解我们的最新消息喔~
