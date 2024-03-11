@@ -16,7 +16,7 @@ Hi there 👋 欢迎来到 [Simple Robot][sr] の唯一指定官方图书馆，S
 
 | 描述 | 网站 | 仓库 | 构建状态 |
 |---------|-------|---------|:-------:|
-| Simple Robot v3 首页 | [🏠**前往官网**](https://simbot.forte.love) | [源码仓库](https://github.com/simple-robot-library/simbot3-website) | [![Deploy gh-page](https://github.com/simple-robot-library/simbot3-website/actions/workflows/gh-page.yml/badge.svg?branch=main)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/gh-page.yml) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment) |
+| Simple Robot 应用手册 | [🏠**前往官网**](https://simbot.forte.love) | [源码仓库](https://github.com/simple-robot-library/simbot3-website) | [![Deploy gh-page](https://github.com/simple-robot-library/simbot3-website/actions/workflows/gh-page.yml/badge.svg?branch=main)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/gh-page.yml) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-website/actions/workflows/pages/pages-build-deployment) |
 
 > 或参考官网链接：**<https://simbot.forte.love>**
 
@@ -27,7 +27,4 @@ Hi there 👋 欢迎来到 [Simple Robot][sr] の唯一指定官方图书馆，S
 | 文档引导站点 | [🏠**前往站点**](https://docs.simbot.forte.love) | [源码仓库](https://github.com/simple-robot-library/simbot3-api-docs) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot3-api-docs/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot3-api-docs/actions/workflows/pages/pages-build-deployment) |
 
 > 或参考站点链接：**<https://docs.simbot.forte.love>**
-
-## [🎏博客](https://simbot.forte.love/blog/)
-如果你有兴趣，可以没事儿去看看不定期更新的 [**🎏博客**](https://simbot.forte.love/blog) 来了解我们的最新消息喔~
 
