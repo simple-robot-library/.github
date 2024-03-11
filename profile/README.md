@@ -16,7 +16,7 @@ Hi there 👋 欢迎来到 [Simple Robot][sr] の唯一指定官方图书馆，S
 
 | 描述 | 网站 | 仓库 | 构建状态 |
 |---------|-------|---------|:-------:|
-| Simple Robot 应用手册 | [🏠**前往官网**](https://simbot.forte.love) | [源码仓库](https://github.com/simple-robot-library/simbot4-website) | [![Deploy gh-page](https://github.com/simple-robot-library/simbot4-website/actions/workflows/gh-page.yml/badge.svg?branch=main)](https://github.com/simple-robot-library/simbot4-website/actions/workflows/gh-page.yml) | [![pages-build-deployment](https://github.com/simple-robot-library/simbot4-website/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/simple-robot-library/simbot4-website/actions/workflows/pages/pages-build-deployment) |
+| Simple Robot 应用手册 | [🏠**前往官网**](https://simbot.forte.love) | [源码仓库](https://github.com/simple-robot-library/simbot4-website) | [![Deploy gh-page](https://github.com/simple-robot-library/simbot4-website/actions/workflows/gh-page.yml/badge.svg?branch=main)](https://github.com/simple-robot-library/simbot4-website/actions/workflows/gh-page.yml) | [![Deploy documentation](https://github.com/simple-robot-library/simbot4-website/actions/workflows/deploy-documentation.yml/badge.svg)](https://github.com/simple-robot-library/simbot4-website/actions/workflows/deploy-documentation.yml) |
 
 > 或参考官网链接：**<https://simbot.forte.love>**
 
